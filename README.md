@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/e491c99e-9a7b-4be5-a6d1-393151a29095)
 
+**Course Link:** https://www.coursera.org/learn/ibm-data-analyst-capstone-project
+
 ### What you'll learn
 
 - Apply different techniques to collect and wrangle data
