@@ -8,3 +8,10 @@
 - Showcase your Data Analysis and Visualization skills
 - Create a data analysis report and a compelling presentation
 - Demonstrate proficiency with various Python Libraries
+
+### Skills you'll gain
+- Data Analysis
+- Python Programming
+- Dashboard
+- Data Visualization
+- SQL and RDBMS
